@@ -1,0 +1,82 @@
+body {
+    background-color: #001233;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.profile-container {
+    width: 25em;
+    padding: 1em;
+    background-color: #001d3d;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+img {
+    display: block;
+    max-width: 200px;
+    height: auto;
+    margin: 0 auto 1em;
+    border-radius: 200%;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    margin-bottom: 0.5em;
+}
+
+.user-local {
+    color: hsl(75, 94%, 57%);
+    font-size: 1em;
+    margin-bottom: 0.5em;
+}
+
+.user-about {
+    color: white;
+    margin-bottom: 1em;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    display: block;
+    gap: 10px;
+    width: 95%;
+}
+
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.list-item {
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+    padding: 6px;
+    background-color: #002945;
+    text-align: center;
+}
+
+.list-item:hover {
+    background-color:  #a3ca2c;
+}
+
+.social-links * + * {
+    margin-top: 10px;
+
+}
+
+.user-photo {
+    width: 100%;
+
+}
