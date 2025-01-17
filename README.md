@@ -16,6 +16,5 @@ Ao desenvolver este projeto, busquei:
 - CSS3  
 
 ## 📂 Visualização  
-Você pode visualizar o projeto clicando [aqui](http://127.0.0.1:5500/#) (ou substitua pelo link online).  
-
+Você pode visualizar o projeto clicando [aqui](https://juschivinscki.github.io/Social-link-profile/)
 
