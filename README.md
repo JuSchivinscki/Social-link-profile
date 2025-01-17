@@ -1,6 +1,8 @@
 # Projeto Social Link Profile  
+![Imagem do projeto](https://github.com/user-attachments/assets/e8e74f92-cc67-43e6-8dd5-e7cd859b0618)
 
 Bem-vindo ao **Social Link Profile**, um projeto desenvolvido com o objetivo de aprimorar minhas habilidades em HTML e CSS.  
+
 
 ## 🖥️ Sobre o Projeto  
 Este projeto foi proposto pela plataforma [Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ), que oferece desafios práticos para quem deseja se desenvolver na área de front-end. Ele consiste na criação de uma página simples e responsiva para um perfil de links sociais, utilizando apenas **HTML** e **CSS**.  
